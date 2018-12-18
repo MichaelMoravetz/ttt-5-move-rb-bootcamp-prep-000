@@ -12,6 +12,3 @@ input = gets.strip
 
 input_to_index(input)
 
-move(board, index)
-
-disply_board(board)
